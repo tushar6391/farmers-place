@@ -77,7 +77,9 @@ MONGO_DB=farmers_place_mongo
 \`\`\`
 
 ## 📸 Screenshots
-login_page.png
+![Dashboard](screenshots/dashboard.png)
+![Crop Recommendation](screenshots/crop.png)
+![Weather](screenshots/weather.png)
 
 
 ## 👨‍💻 Author
