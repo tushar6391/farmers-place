@@ -81,7 +81,7 @@ MONGO_DB=farmers_place_mongo
 ![Dashboard](dashboard_page.png)
 ![Crop Recommendation](crop_recommendation.png)
 ![Weather](weather_page.png)
-![Soil Analysis ](weather_page.png)
+![Soil Analysis ](soil_analysis.png)
 
 
 ## 👨‍💻 Author
