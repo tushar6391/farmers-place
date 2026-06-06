@@ -1,0 +1,7 @@
+venv/
+.env
+__pycache__/
+*.pyc
+*.pyo
+db.sqlite3
+ml_models/crop_model.pkl
